@@ -1,5 +1,6 @@
-# instalando-php-windows10
-guia de como instalar o php globalmente no windowns 10 
+
+<img src="https://github.com/LaiFrance/instalando-php-windows10-instala-o-do-Composer/assets/91226847/05f95c18-ea19-4448-b7d2-ef1c5fbb7494" width="200" height="200">
+
 
 # Instalação do PHP no Windows 10
 
@@ -45,3 +46,8 @@ Abra o Prompt de Comando e digite:
 
 ```bash
 php -v
+```
+
+# Instalação do Composer 
+![_f7a72956-acc9-413a-9d64-2579dad56f99](https://github.com/LaiFrance/instalando-php-windows10-instala-o-do-Composer/assets/91226847/d6387ca0-4c87-4d06-9716-1c368398d3bd)
+
