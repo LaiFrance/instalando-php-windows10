@@ -49,5 +49,5 @@ php -v
 ```
 
 # Instalação do Composer 
-![_f7a72956-acc9-413a-9d64-2579dad56f99](https://github.com/LaiFrance/instalando-php-windows10-instala-o-do-Composer/assets/91226847/d6387ca0-4c87-4d06-9716-1c368398d3bd)
+<img src="https://github.com/LaiFrance/instalando-php-windows10-instala-o-do-Composer/assets/91226847/d6387ca0-4c87-4d06-9716-1c368398d3bd" width="200" height="200">
 
